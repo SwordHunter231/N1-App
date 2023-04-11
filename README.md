@@ -39,3 +39,9 @@ Click on `Install Now`. This will start the installation.
 If everything went well, the installer will say `Setup was successful`. Hooray! Python is installed and you can now close the window.
 
 ### Download Python on macOS
+
+Head over to https://www.python.org/downloads/macos/ or click [here](https://www.python.org/downloads/macos/).
+
+Click the yellow button that says Download Python.
+
+This should download the python installer
