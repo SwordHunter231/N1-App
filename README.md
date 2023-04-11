@@ -86,6 +86,6 @@ This happens because the `.exe` file isn't signed and isn't used by many users. 
 
 ### macOS and Linux
 
-No official release yet but you can run the code by downloading the `main.py`.
+No official release yet but you can run the code by downloading the `main.py` file.
 
 **EXECUTABLE APP COMING FOR MACOS VERY SOON.**
