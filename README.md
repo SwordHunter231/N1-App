@@ -2,8 +2,6 @@
 
 This is a very early version of the app. Please expect bugs.
 
-## How to download
-
 Before downloading the app, we need to install python. Python is the programming language this app is written in and is essential in order to run the application.
 
 ### Download Python on Windows
@@ -73,3 +71,15 @@ If it shows a python version, python is already installed, otherwise, you can us
 ```
 pip install python
 ```
+
+## How to Download the App
+
+### Windows
+
+Scroll back to the top, and find the `Realeases` section on the right side. Click on `Version 1.0`.
+
+Under `Assests`. click on `n1_app.exe` to download the app. Once you've downloaded it, double click it to run it.
+
+Windows might bring up a screen saying `Windows Protected your PC`. click on `more info` and click on `run anyways`.
+
+This happens because the `.exe` file isn't signed and isn't used my many users. This lets Windows think it's a virus, but it's not. You can check the code for yourself! ;)
