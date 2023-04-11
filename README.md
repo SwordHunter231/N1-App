@@ -40,8 +40,36 @@ If everything went well, the installer will say `Setup was successful`. Hooray! 
 
 ### Download Python on macOS
 
+Before installing Python, check if it's already installed.
+
+Open `Spotlight` using `command + space` and type "terminal". Hit enter.
+
+Now type:
+
+```
+python --version
+```
+
+And hit enter. If it displays a version of python you don't need to install python, otherwise, read furthermore to install python:
+
 Head over to https://www.python.org/downloads/macos/ or click [here](https://www.python.org/downloads/macos/).
 
-Click the yellow button that says Download Python.
+Under `Stable Releases`, click on the first Python installer (it will look something like `* Download macOS 64-bit universal2 installer`)
 
-This should download the python installer
+Once downloaded, run the installer. Click continue, agree and install to everything (during the installation, the finder may open, don't worry, just close it).
+
+If everything went well, the installer should say something like `Congratulations! Python 3.11.something for macOS was successfully installed.`. Cool, python is installed, close the window.
+
+### Download Python on Linux
+
+Most linux distros have Python installed already. You can still check by opening a terminal (`CTRL + ALT + T`) and typing:
+
+```
+python --version
+```
+
+If it shows a python version, python is already installed, otherwise, you can use this command to install it:
+
+```
+pip install python
+```
