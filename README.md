@@ -78,8 +78,14 @@ pip install python
 
 Scroll back to the top, and find the `Realeases` section on the right side. Click on `Version 1.0`.
 
-Under `Assests`. click on `n1_app.exe` to download the app. Once you've downloaded it, double click it to run it.
+Under `Assests`, click on `n1_app.exe` to download the app. Once you've downloaded it, double click it to run it.
 
-Windows might bring up a screen saying `Windows Protected your PC`. click on `more info` and click on `run anyways`.
+Windows might bring up a screen saying `Windows Protected your PC`. Click on `more info` and click on `run anyways`.
 
-This happens because the `.exe` file isn't signed and isn't used my many users. This lets Windows think it's a virus, but it's not. You can check the code for yourself! ;)
+This happens because the `.exe` file isn't signed and isn't used by many users. This lets Windows think it's a virus, but it's not. You can check the code for yourself! ;)
+
+### macOS and Linux
+
+No official release yet but you can run the code by downloading the `main.py`.
+
+**EXECUTABLE APP COMING FOR MACOS VERY SOON.**
