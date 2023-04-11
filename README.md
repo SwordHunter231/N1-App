@@ -8,11 +8,27 @@ Before downloading, we need to install python. Python is the programming languag
 
 ### Download Python on Windows
 
+Before downloading Python, check if it's already installed.
+
+To do that, open up a command prompt by typing `cmd` in the search bar and hitting `ENTER`.
+
+Now type:
+
+```
+python --version
+```
+
+And hit enter.
+
+If this command returns `Python (version)`, python is already installed.
+
+If it returns errors (it will probably do) or something else, you need to download Python:
+
 Head over to https://www.python.org/downloads/ or click [here](https://www.python.org/downloads).
 
 Click the yellow button that says ´Download Python´.
 
-This should bring up the file explorer asking where to download the file. Select the place where you want to download the python installer and click on save (this will download the python installer).
+This should bring up the file explorer asking where to download the file. Select the place where you want to download the python installer and click on ´save´ (this will download the python installer).
 
 Once downloaded, run the installer.
 
