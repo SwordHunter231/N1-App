@@ -4,7 +4,7 @@ This is a very early version of the app. Please expect bugs.
 
 ## How to download
 
-Before downloading, we need to install python. Python is the programming language this app is written in and is essential in order to run the application.
+Before downloading the app, we need to install python. Python is the programming language this app is written in and is essential in order to run the application.
 
 ### Download Python on Windows
 
@@ -37,3 +37,5 @@ Make sure to check the box `Add python.exe to PATH` at the bottom of the install
 Click on `Install Now`. This will start the installation.
 
 If everything went well, the installer will say `Setup was successful`. Hooray! Python is installed and you can now close the window.
+
+### Download Python on macOS
