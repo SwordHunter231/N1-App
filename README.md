@@ -8,4 +8,4 @@ Before downloading, we need to install python. Python is the programming languag
 
 ### Download Python on Windows
 
-Head over to https://www.python.org/ or click (here)[https://www.python.org/]
+Head over to https://www.python.org/ or click [here](https://www.python.org/)
